@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/image-style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"image-style.7d8c93de.css","sourceRoot":"../src","sourcesContent":["img {\n    width: 50%;\n    max-width: 50%;\n}\n\n.two-img-box {\n    display: flex;\n}"]}

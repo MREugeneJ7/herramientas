@@ -1,0 +1,1 @@
+{"version":3,"sources":["image-style.css"],"names":[],"mappings":"AAAA,IACI,SAAU,CACV,aACJ,CAEA,aACI,YACJ","file":"image-style.d785dbd7.css","sourceRoot":"../src","sourcesContent":["img {\n    width: 50%;\n    max-width: 50%;\n}\n\n.two-img-box {\n    display: flex;\n}"]}
