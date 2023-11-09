@@ -1,0 +1,21 @@
+{
+  "name": "practica-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sourcemaps": "^3.0.0",
+    "mozjpeg": "^8.0.0"
+  }
+}
